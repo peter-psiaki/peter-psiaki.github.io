@@ -1,4 +1,4 @@
-const canvas = document.getElementById("game");
+/*const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
 
 const gridSize = 20;
@@ -88,4 +88,4 @@ function spawnFood() {
 
 // start game
 init();
-setInterval(loop, 100);
+setInterval(loop, 100);*/
